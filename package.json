@@ -1,0 +1,13 @@
+{
+  "name": "webasm_practice",
+  "version": "1.0.0",
+  "description": "A simple set of projects to learn web assembly, C, and maybe some openGL",
+  "main": "index.js",
+  "repository": "https://github.com/TweedChristian/webasm_practice",
+  "author": "Christian Tweed",
+  "license": "GNU",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
